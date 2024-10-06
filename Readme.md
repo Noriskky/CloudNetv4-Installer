@@ -2,6 +2,8 @@
 
 This is script will install you **CloudNetV4**
 
+Based on the [Script](https://github.com/Noriskky/Scripts/blob/main/cloudnet-setup.sh) by @Noriskky
+
 ## Usage
 
 You can use it with the following Command:
